@@ -1,0 +1,10 @@
+{
+  "name": "firebase-custom-token-forwarder-through-slack-dm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "aluc <b6pzeusbc54tvhw5jgpyw8pwz2x6gs@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "firebase-tools": "^8.0.1"
+  }
+}

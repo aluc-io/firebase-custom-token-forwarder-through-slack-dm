@@ -1,0 +1,15 @@
+## Compiled JavaScript files
+/functions/node_modules/
+/functions/lib/
+
+/functions/.runtimeconfig.json
+
+# Typescript v1 declaration files
+typings/
+
+/node_modules/
+/lib
+/*.log
+/serviceAccountKey.json
+/.firebaserc
+/.envrc
